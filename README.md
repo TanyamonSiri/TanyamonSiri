@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there, I'm Ping 👧🏻💡👋
+
+I'm a former product development engineer who is deeply into data and now transitioning towards the data science field.
+- 🌱 I’ve just completed the data science bootcamp by **xLab Digital**
+- 🔭 I’m currently learning in-demand skills to be an Entry-level Data Analyst with [DataRockie](https://datarockie.com/data-science-bootcamp/) 
 
 <!--
 **TanyamonSiri/TanyamonSiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
