@@ -1,7 +1,7 @@
 ### Hey there, I'm Ping 👧🏻💡👋
 
-I'm a former product development engineer who is deeply into data and now transitioning towards the data science field.
-- 🌱 I’ve just completed the data science bootcamp by **xLab Digital**
+I'm a former product development engineer who enjoys the process of data analytics & visualization, and is now transitioning into the data science field.
+- 🌱 I’ve recently completed the data science bootcamp by **xLab Digital**
 - 🔭 I’m currently learning in-demand skills to be an entry-level Data Analyst with [DataRockie](https://datarockie.com/data-science-bootcamp/) 
 
 <!--
