@@ -1,6 +1,6 @@
-### Hey there, I'm Ping 👧🏻💡👋
+### Hey there, I'm Tanya 👧🏻💡👋
 
-I'm now working as a data analyst but I was a former product development engineer, with a strong passion for data analytics and visualization. I'm continuing to grow in the data science field.
+A professional data analyst with a strong passion for data analytics and visualization. I'm continuing to grow in the data science field.
 - 🌱 I’ve completed the data science bootcamp by **xLab Digital**
 - 🔭 I’ve completed in-demand skills to be a professional Data Analyst with [DataRockie](https://datarockie.com/data-science-bootcamp/) 
 
