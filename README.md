@@ -1,6 +1,7 @@
 ### Hey there, I'm Tanya 👧🏻💡👋
 
-A professional data analyst with a strong passion for data analytics, visualization, and business intelligence. 
+A professional data analyst with a strong passion for data analytics, visualization, and business intelligence.
+
 Currently pursuing a **Master of Data Science** at RMIT University in Melbourne, building on prior experience in transforming business needs into actionable insights through data-driven solutions.
 
 Hands-on experience in SQL, Looker Studio Power BI, and MS Excel, with a focus on creating impactful dashboards and automating reporting processes.
